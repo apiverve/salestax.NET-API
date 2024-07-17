@@ -14,7 +14,7 @@
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageProjectUrl>https://apiverve.com/?utm_source=nuget</PackageProjectUrl>
     <SignAssembly>False</SignAssembly>
-    <Description>Sales Tax Lookup is a simple tool for looking up the sales tax rate of a location. It returns the sales tax rate and the jurisdiction.</Description>
+    <Description>Sales Tax Lookup is a simple tool for looking up the sales tax rate of a location. It returns the sales tax rate.</Description>
     <RepositoryUrl>https://github.com/apiverve/salestax.NET-API</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>sales tax; sales tax lookup; sales tax api; sales tax tool; sales tax software</PackageTags>
