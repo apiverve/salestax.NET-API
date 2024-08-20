@@ -70,7 +70,7 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-var queryOptions = new salestaxQueryOptions {
+var queryOptions = new SalesTaxLookupQueryOptions {
   zip = "90210"
 };
 ```
@@ -101,7 +101,8 @@ if(response.error != null) {
     "county": 0.0025,
     "city": 0.0075,
     "special": 0.0325
-  }
+  },
+  "code": 200
 }
 ```
 
